@@ -1,20 +1,31 @@
-
+![logo](https://github.com/parmanandkumar01/parmanandkumar01/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Parmanand Kumar</h1>
-<h3 align="center">🎓 Electronics Engineer | Quick Learner | Innovator 💻 Passionate about blending technology and creativity to solve real-world problems.</h3>
-
+<h3 align="center">🎓 Electronics Engineer | Quick Learner | Innovator  <br>
+  💻 Passionate about blending technology and creativity to solve real-world problems.</h3>
+<img align = "right" alt = "coding" width = "300" src = "https://github.com/parmanandkumar01/parmanandkumar01/blob/main/anim.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmanandkumar01&label=Profile%20views&color=0e75b6&style=flat" alt="parmanandkumar01" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,Javascript**
 
 - 📫 How to reach me [pramanandlav@gmail.com](pramanandlav@gmail.com)
 
-- 💬 Ask me about **🛠️ Experienced in C, C++, and project development with Java and Android Studio. 🔧 Proficient in tools like AutoCAD Electrical, Adobe Photoshop, and MS Office. 🏆 Awarded First Rank in my diploma's second year for outstanding academic performance. 🌐 Multilingual: Fluent in English, Hindi, and Bhojpuri.**
+- 💬 Ask me about <br> 
+    🛠️ Experienced in C, C++.<br>
+    🔧 Proficient in tools like MS Office. <br>
+    🏆 Awarded First Rank in my diploma's second year for outstanding academic performance. <br>
+    🏆 Awarded Second Rank in my diploma's last year for outstanding academic performance. <br>
+    🌐 Multilingual: Fluent in English, Hindi, and Bhojpuri.<br><br>
 
-- 🚀 What I’m Working On **🔬 Building innovative projects like Student Information Management Systems. 🤖 Experimenting with Arduino and automation to bring ideas to life. 📚 Continuously learning and exploring new technologies in electronics and software.**
+- 🚀 What I’m Working On <br>
+     🔬 Building innovative projects like Student Information Management Systems.<br>
+      🤖 Experimenting with Arduino and automation to bring ideas to life.<br>
+      📚 Continuously learning and exploring new technologies in electronics and software.<br><br>
 
-- 📄 Know about my experiences [https://github.com/parmanandkumar01/parmanandkumar01/blob/main/Resume%20of%20Parma.pdf](https://github.com/parmanandkumar01/parmanandkumar01/blob/main/Resume%20of%20Parma.pdf)
+- 📄 Know about my experiences <br>[https://github.com/parmanandkumar01/parmanandkumar01/blob/main/Resume%20of%20Parma.pdf](https://github.com/parmanandkumar01/parmanandkumar01/blob/main/Resume%20of%20Parma.pdf) <br><br>
 
-- ⚡ Fun fact **🎶 I love listening to music and singing in my free time. 🎥 A huge fan of science fiction movies—always inspired by futuristic tech!**
+- ⚡ Fun fact <br>
+     🎶 I love listening to music and singing in my free time.<br>
+     🎥 A huge fan of science fiction movies—always inspired by futuristic tech! <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
