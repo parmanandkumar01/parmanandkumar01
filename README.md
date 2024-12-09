@@ -1,128 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parmanand Kumar - GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-        }
 
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #0078d7;
-            color: white;
-        }
+<h1 align="center">Hi 👋, I'm Parmanand Kumar</h1>
+<h3 align="center">🎓 Electronics Engineer | Quick Learner | Innovator 💻 Passionate about blending technology and creativity to solve real-world problems.</h3>
 
-        header img {
-            width: 100%;
-            max-height: 250px;
-            object-fit: cover;
-        }
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parmanandkumar01&label=Profile%20views&color=0e75b6&style=flat" alt="parmanandkumar01" /> </p>
 
-        .content {
-            padding: 20px;
-        }
+- 🌱 I’m currently learning **HTML,CSS,Javascript**
 
-        h1, h2 {
-            color: #0078d7;
-        }
+- 📫 How to reach me [pramanandlav@gmail.com](pramanandlav@gmail.com)
 
-        .skills, .projects, .education {
-            margin-top: 20px;
-        }
+- 💬 Ask me about **🛠️ Experienced in C, C++, and project development with Java and Android Studio. 🔧 Proficient in tools like AutoCAD Electrical, Adobe Photoshop, and MS Office. 🏆 Awarded First Rank in my diploma's second year for outstanding academic performance. 🌐 Multilingual: Fluent in English, Hindi, and Bhojpuri.**
 
-        .skills img, .hobbies img, .languages img {
-            width: 30px;
-            height: 30px;
-            vertical-align: middle;
-            margin-right: 10px;
-        }
+- 🚀 What I’m Working On **🔬 Building innovative projects like Student Information Management Systems. 🤖 Experimenting with Arduino and automation to bring ideas to life. 📚 Continuously learning and exploring new technologies in electronics and software.**
 
-        .center {
-            text-align: center;
-        }
+- 📄 Know about my experiences [https://github.com/parmanandkumar01/parmanandkumar01/blob/main/Resume%20of%20Parma.pdf](https://github.com/parmanandkumar01/parmanandkumar01/blob/main/Resume%20of%20Parma.pdf)
 
-        footer {
-            text-align: center;
-            padding: 20px;
-            margin-top: 20px;
-            background-color: #333;
-            color: white;
-        }
+- ⚡ Fun fact **🎶 I love listening to music and singing in my free time. 🎥 A huge fan of science fiction movies—always inspired by futuristic tech!**
 
-        .gif {
-            display: inline-block;
-            margin: 10px;
-            border-radius: 10px;
-            width: 150px;
-            height: 150px;
-            object-fit: cover;
-        }
-    </style>
-</head>
-<body>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/parmanand7352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parmanand7352" height="30" width="40" /></a>
+</p>
 
-<header>
-    <img src="https://via.placeholder.com/1200x250.png?text=Welcome+to+My+GitHub+Profile" alt="Profile Banner">
-    <h1>Hi, I'm Parmanand Kumar! 👋</h1>
-    <p>Quick Learner | Inventor | Mentor | 2nd Year Computer Science Engineering Student</p>
-</header>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div class="content">
-    <section class="about">
-        <h2>About Me</h2>
-        <p>I'm an enthusiastic student exploring the intersection of technology and creativity. I aim to solve real-world problems through innovative projects and technical skills. Always eager to learn and grow!</p>
-    </section>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parmanandkumar01&show_icons=true&locale=en&layout=compact" alt="parmanandkumar01" /></p>
 
-    <section class="skills">
-        <h2>Skills</h2>
-        <ul>
-            <li><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Language">C Programming</li>
-            <li><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Language">C++ Programming</li>
-            <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">Java</li>
-            <li><img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio">Android Studio</li>
-            <li><img src="https://img.icons8.com/color/48/000000/microsoft-office.png" alt="MS Office">MS Office</li>
-        </ul>
-    </section>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parmanandkumar01&show_icons=true&locale=en" alt="parmanandkumar01" /></p>
 
-    <section class="projects">
-        <h2>Projects</h2>
-        <ul>
-            <li>📊 <strong>Student Information Management System</strong>: A software project to systematize and standardize student records using <em>XML, Java, and Android Studio</em>.</li>
-        </ul>
-    </section>
-
-    <section class="education">
-        <h2>Education</h2>
-        <ul>
-            <li><strong>Government Polytechnic College</strong>, Diploma in Electronics Engineering (78.22% Marks)</li>
-            <li><strong>Sone Bandh Yojna High School</strong>, ISC (66.4% Marks)</li>
-        </ul>
-    </section>
-
-    <section class="hobbies">
-        <h2>Hobbies</h2>
-        <ul>
-            <li>🎶 Listening to Music</li>
-            <li>🎤 Singing</li>
-            <li>🎥 Watching Science Fiction Movies</li>
-            <li>🤖 Working on Arduino Projects</li>
-        </ul>
-    </section>
-</div>
-
-<footer>
-    <p>📫 Reach me at: <a href="mailto:parmanand821308@gmail.com">parmanand821308@gmail.com</a></p>
-    <p>🌟 "Keep learning, keep innovating!"</p>
-</footer>
-
-</body>
-</html>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmanandkumar01&" alt="parmanandkumar01" /></p>
