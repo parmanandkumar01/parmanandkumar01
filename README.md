@@ -1,4 +1,4 @@
-![logo](https://github.com/parmanandkumar01/parmanandkumar01/blob/main/banner.png)
+![logo](https://github.com/parmanandkumar01/parmanandkumar01/blob/main/new_banner.png)
 <h1 align="center">Hi 👋, I'm Parmanand Kumar</h1>
 <h3 align="center">🎓 Electronics Engineer | Quick Learner | Innovator  <br>
   💻 Passionate about blending technology and creativity to solve real-world problems.</h3>
